@@ -106,6 +106,7 @@ https://shop.51shop.ink/demo/ 用户名:admin  密码:admin
 * 营销工具：秒杀、团购、优惠券、限时购（团长，分销 ，ERP整合，在开发中）
 * 平台模式：b2b2c 支持多模式切换
 * 演示地址：
+
 ``管理端：
 http://jsdev.51shop.ink/adminPc/  443803278@qq.com 123456
 ``
