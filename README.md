@@ -108,7 +108,9 @@ https://shop.51shop.ink/demo/ 用户名:admin  密码:admin
 * 演示地址：
 
 ``管理端：
-http://jsdev.51shop.ink/adminPc/  443803278@qq.com 123456
+Z:
+https://happystage.xfshequ.com/adminPc   admin2   admin
+
 ``
 
 ``C端：
