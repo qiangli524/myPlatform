@@ -107,15 +107,10 @@ https://shop.51shop.ink/demo/ 用户名:admin  密码:admin
 * 平台模式：b2b2c 支持多模式切换
 * 演示地址：
 
-``管理端：
-Z:
-https://happystage.xfshequ.com/adminPc   admin2   admin
+商业版本-管理端：https://happystage.xfshequ.com/adminPc   用户名:admin2   密码：admin2
 
-``
+商业版本-C端： http://m.17jsh.cn/front/login/index  前台H5 需要微信内浏览
 
-``C端：
-http://m.17jsh.cn/front/login/index  前台H5 需要微信内浏览
-``
 
 # 如果需软件定制、人员外包、招聘团队等商务合作：请加微信（old-peanuts）、（zhs_18817251180）
 # 如果你喜欢我们的开源请点个赞是对我们的奖励
