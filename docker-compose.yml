@@ -1,0 +1,23 @@
+version: "2"
+services:
+  mysql:
+    hostname: mysql-8
+    container_name: mysql-8
+    command: --lower_case_table_names=1
+    environment:
+      MYSQL_ROOT_PASSWORD: "root"
+    image: mysql:8.0.13
+    ports:
+      - "3307:3307"
+    restart: always
+    volumes:
+      - "/home/zhangqy/docker/mysql/data:/var/lib/mysql"
+      - "/home/zhangqy/docker/mysql/logs:/var/log/mysql"
+      - "/home/zhangqy/docker/mysql/config:/etc/mysql/conf.d"
+    networks:
+      backend:
+        aliases:
+          - mysql-8
+networks:
+  backend:
+    driver: bridge
